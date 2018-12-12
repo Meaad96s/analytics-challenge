@@ -72,4 +72,4 @@ Congratulations! Now you have the Jupyter Notebook ready.
 ![screenshot 4](https://user-images.githubusercontent.com/45757604/49797666-2f260800-fd51-11e8-818b-84b434321fc4.PNG)
 )
 
-![](congrats.gif)
+<div class="tenor-gif-embed" data-postid="13060733" data-share-method="host" data-width="100%" data-aspect-ratio="2.0080645161290325"><a href="https://tenor.com/view/yes-congrats-congratulations-celebrate-hooray-gif-13060733">Yes Congrats GIF</a> from <a href="https://tenor.com/search/yes-gifs">Yes GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
