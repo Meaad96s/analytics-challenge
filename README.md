@@ -17,37 +17,6 @@ Create a service [here](https://console.bluemix.net/catalog/services/cloud-objec
 Download the telco customer churn dataset from [here](# Analytics-challenge
 A challenge by IBM for STC Hackathon. The challnge starts from 1:30PM to 2:30PM.
 
-## Challenge Summary
-The challenge is to build a machine learning model to predict customer churn. The model helps the company to know the probability of losing customers.
-
-## Pre-requisites
-* **IBM Cloud account:**  An account must exist to use the platform, create an account [here](https://ibm.biz/Bd2DjV).
-* **Watson Studio service instance:** A service instance must exist to be able to use **Jupyter notebook or SPSS Modeler**.
-Create a service [here](https://console.bluemix.net/catalog/services/watson-studio)
-* **Cloud Object Storage:** A service instance must exist to be used for storage.
-Create a service [here](https://console.bluemix.net/catalog/services/cloud-object-storage)
-* **Watson Machine Learning** Create a service [here](https://console.bluemix.net/catalog/services/machine-learning).
-
-
-## Challenge Dataset
-Download the telco customer churn dataset from [here](# Analytics-challenge
-A challenge by IBM for STC Hackathon. The challnge starts from 1:30PM to 2:30PM.
-
-## Challenge Summary
-The challenge is to build a machine learning model to predict customer churn. The model helps the company to know the probability of losing customers.
-
-## Pre-requisites
-* **IBM Cloud account:**  An account must exist to use the platform, create an account [here](https://ibm.biz/Bd2DjV).
-* **Watson Studio service instance:** A service instance must exist to be able to use **Jupyter notebook or SPSS Modeler**.
-Create a service [here](https://console.bluemix.net/catalog/services/watson-studio)
-* **Cloud Object Storage:** A service instance must exist to be used for storage.
-Create a service [here](https://console.bluemix.net/catalog/services/cloud-object-storage)
-* **Watson Machine Learning** Create a service [here](https://console.bluemix.net/catalog/services/machine-learning).
-
-
-## Challenge Dataset
-Download the telco customer churn dataset from [here](https://github.com/Meaad96s/analytics-challenge/blob/master/Telco-Customer-Churn.csv)
-
 ## Deliverables
 1. Machine learning model.
 2. Dashboard consisting of at least 2 charts of 2 variables or more.
