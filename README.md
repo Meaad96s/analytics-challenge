@@ -1,5 +1,5 @@
 # Analytics-challenge
-A challenge by IBM for STC Hackathon. The challnge starts from 1:30PM to 2:30PM.
+A challenge by IBM for STC Hackathon. The challnge starts from 1:00PM to 2:30PM.
 
 ## Challenge Summary
 The challenge is to build a machine learning model to predict customer churn. The model helps the company to know the probability of losing customers.
@@ -14,8 +14,8 @@ Create a service [here](https://console.bluemix.net/catalog/services/cloud-objec
 
 
 ## Challenge Dataset
-Download the telco customer churn dataset from [here](# Analytics-challenge
-A challenge by IBM for STC Hackathon. The challnge starts from 1:30PM to 2:30PM.
+Download the telco customer churn dataset from [here](https://github.com/Meaad96s/analytics-challenge/blob/master/Telco-Customer-Churn.csv)
+
 
 ## Deliverables
 1. Machine learning model.
